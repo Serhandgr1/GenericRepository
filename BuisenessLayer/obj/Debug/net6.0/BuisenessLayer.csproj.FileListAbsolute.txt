@@ -1,0 +1,15 @@
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\bin\Debug\net6.0\BuisenessLayer.deps.json
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\bin\Debug\net6.0\BuisenessLayer.dll
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\bin\Debug\net6.0\BuisenessLayer.pdb
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\bin\Debug\net6.0\DataAccess.dll
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\obj\Debug\net6.0\BuisenessLayer.csproj.AssemblyReference.cache
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\obj\Debug\net6.0\BuisenessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\obj\Debug\net6.0\BuisenessLayer.AssemblyInfoInputs.cache
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\obj\Debug\net6.0\BuisenessLayer.AssemblyInfo.cs
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\obj\Debug\net6.0\BuisenessLayer.csproj.CoreCompileInputs.cache
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\obj\Debug\net6.0\BuisenessLayer.csproj.CopyComplete
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\obj\Debug\net6.0\BuisenessLayer.dll
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\obj\Debug\net6.0\refint\BuisenessLayer.dll
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\obj\Debug\net6.0\BuisenessLayer.pdb
+C:\Users\dogru\source\repos\OdevWeb\BuisenessLayer\obj\Debug\net6.0\ref\BuisenessLayer.dll
